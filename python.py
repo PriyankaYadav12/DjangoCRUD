@@ -14,7 +14,7 @@ for index, value in enumerate(reversed(data)):
     if value < min_valid or value > max_valid:
         print(top_index - index, value)
         del data[top_index - index]
-print(data)
+print(data) 
 
 
 
