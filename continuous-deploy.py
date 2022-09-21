@@ -5,7 +5,8 @@ import subprocess
 import time
 from optparse import OptionParser
 
-JAVA_HOME="/usr/lib/jvm/java-1.6.0-openjdk/"
+JAVA_HOME="C:/Program Files/Java/jdk-11.0.12"
+
 SLEEP_SECONDS=2
 
 def message(msg):
