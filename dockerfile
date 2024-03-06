@@ -5,4 +5,4 @@ from python:latest
   COPY ../
  // ENTRYPOINT[","]
   EXPOSE 8080
-  CMD["python.py"]
+  CMD["python" , "python.py"]
