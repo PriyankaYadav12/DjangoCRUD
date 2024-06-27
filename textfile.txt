@@ -1,2 +1,3 @@
 my first project
-using github, docker , dockerhub and ec2 instance to deploy project  
+using github, docker , 
+dockerhub and ec2 instance to deploy project  
